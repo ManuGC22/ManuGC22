@@ -1,5 +1,99 @@
-### Hi there 👋
 
+
+<div id="header" align="center">
+  
+  
+   <h1> 
+    Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
+     </h1>  
+ 
+  <img src="https://user-images.githubusercontent.com/101868896/174448716-5d5121c1-41fe-4219-af49-e02d54063032.png"/>
+ <div id="badges">
+    <a href="#">
+  <img src="https://img.shields.io/badge/Portfolio-023e8a?style=for-the-badge" alt="Portfolio Badge"/>
+    </a>
+    <a href="https://www.linkedin.com/in/manugc/">
+  <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://twitter.com/Manu_GC22">
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
+</div>
+<!-- 
+////////////////////
+ABOUT ME
+//////////////////// 
+-->
+<div id="aboutme">
+  <br>
+  <p> 
+I am a software engineer, passionate about building knowledge to understand how things work. Love solving complex problems especially if the answer comes in the most unexpected way. Proficient in front-end and back-end development.
+    
+Making a positive impact in every place I reach is my purpose, code it's my toolbox.
+  </p>
+</div>
+
+<br>
+<!-- 
+////////////////////
+PROJECTS
+//////////////////// 
+-->
+<div id="projects">
+  <h2 align="center"> <img src="https://media.giphy.com/media/WNzMTQC7dLXBKoMe3K/giphy.gif" width="50"/> Projects </h2>
+  <br>
+  
+   <table>
+  <tr>
+    <th> <h3> Joe's Burger </h3> <img src="https://media.giphy.com/media/JoE5aWln1TOgMvYGX6/giphy.gif" width=500> </img></th>
+    <th><h3> Paradise Tours </h3> <img src="https://media.giphy.com/media/nj6WJI8S8gpmMzvDhj/giphy.gif" width=500></th>
+  </tr>
+  <tr>
+    <td><h3 align="center"> Shaken, not Stirred </h3> <img src="https://media.giphy.com/media/B4wYoIyp4UkQAPc5Vc/giphy.gif" width=500></td>
+    <td>Coming Soon</td>
+  </tr>
+
+</table> 
+  
+</div>
+
+<br>
+
+<!-- 
+////////////////////
+TECHNOLOGIES
+//////////////////// 
+-->
+<div id="tech" align="center">
+  <h2 align="center" > 
+   <img src="https://media.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif" width="30"/>  Technologies 
+     </h2>  
+<!--   <img src="https://media.giphy.com/media/meGpQMxGPC461ZD6Ad/giphy.gif" width="150"/> -->
+  
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
+  <img src="https://github![techss](https://user-images.githubusercontent.com/101868896/174457462-70697d05-7f03-47c9-89cf-df35478ad1de.png)
+.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp; -->
+  
+<img src="https://user-images.githubusercontent.com/101868896/174457489-6fc4fc81-b0bf-43e9-8c22-abbfa4da1c91.png"/>
+
+</div>
+<br>
+<!-- 
+////////////////////
+STREAK
+//////////////////// 
+-->
+<hr>
+<div align="center">
+  
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=ManuGC22&theme=dark&hide_border=true" title="Streak" width="650"/>
+  
+</div>
 <!--
 **ManuGC22/ManuGC22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
