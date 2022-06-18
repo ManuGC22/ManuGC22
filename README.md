@@ -79,9 +79,10 @@ TECHNOLOGIES
   <img src="https://github![techss](https://user-images.githubusercontent.com/101868896/174457462-70697d05-7f03-47c9-89cf-df35478ad1de.png)
 .com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp; -->
   
-<img src="https://user-images.githubusercontent.com/101868896/174457489-6fc4fc81-b0bf-43e9-8c22-abbfa4da1c91.png"/>
+<img src="https://user-images.githubusercontent.com/101868896/174457731-ec84778d-cee3-4680-a7af-b27213314057.png"/>
 
-</div>
+
+
 <br>
 <!-- 
 ////////////////////
