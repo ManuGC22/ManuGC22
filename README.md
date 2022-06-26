@@ -51,7 +51,7 @@ PROJECTS
   </tr>
   <tr>
     <td><h3 align="center"> Shaken, not Stirred </h3> <img src="https://media.giphy.com/media/NztxPbAZRqSC1S3yya/giphy.gif" width=500></td>
-    <td>Coming Soon</td>
+    <td><h3 align="center"> Gaming Pill </h3> <img src="https://media.giphy.com/media/cjSUcauS6nwYdAaiiE/giphy.gif" width=500></td>
   </tr>
 
 
