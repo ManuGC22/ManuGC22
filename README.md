@@ -50,9 +50,13 @@ PROJECTS
     <th><h3> Paradise Tours </h3> <img src="https://media.giphy.com/media/nj6WJI8S8gpmMzvDhj/giphy.gif" width=500></th>
   </tr>
   <tr>
-    <td><h3 align="center"> Shaken, not Stirred </h3> <img src="https://media.giphy.com/media/B4wYoIyp4UkQAPc5Vc/giphy.gif" width=500></td>
+    <td><h3 align="center"> Shaken, not Stirred </h3> <img src="https://media.giphy.com/media/NztxPbAZRqSC1S3yya/giphy.gif" width=500></td>
     <td>Coming Soon</td>
   </tr>
+
+
+
+
 
 </table> 
   
