@@ -46,8 +46,8 @@ PROJECTS
   
    <table>
   <tr>
-    <th> <h3> Joe's Burger </h3> <img src="https://media.giphy.com/media/JoE5aWln1TOgMvYGX6/giphy.gif" width=500> </img></th>
-    <th><h3> Paradise Tours </h3> <img src="https://media.giphy.com/media/nj6WJI8S8gpmMzvDhj/giphy.gif" width=500></th>
+    <th> <h3> Capital Burgers </h3> <img src="https://media.giphy.com/media/JoE5aWln1TOgMvYGX6/giphy.gif" width=500> </img></th>
+    <th><h3> True Paradise Tours </h3> <img src="https://media.giphy.com/media/nj6WJI8S8gpmMzvDhj/giphy.gif" width=500></th>
   </tr>
   <tr>
     <td><h3 align="center"> Shaken, not Stirred </h3> <img src="https://media.giphy.com/media/NztxPbAZRqSC1S3yya/giphy.gif" width=500></td>
