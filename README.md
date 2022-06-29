@@ -46,7 +46,7 @@ PROJECTS
   
    <table>
   <tr>
-    <th> <h3> Capital Burgers </h3> <img src="https://media.giphy.com/media/JoE5aWln1TOgMvYGX6/giphy.gif" width=500> </img></th>
+    <th> <h3> Capital Burgers </h3> <a href="https://capitalburgers.netlify.app"> <img src="https://media.giphy.com/media/JoE5aWln1TOgMvYGX6/giphy.gif" width=500> </a> </img></th>
     <th><h3> True Paradise Tours </h3> <img src="https://media.giphy.com/media/nj6WJI8S8gpmMzvDhj/giphy.gif" width=500></th>
   </tr>
   <tr>
