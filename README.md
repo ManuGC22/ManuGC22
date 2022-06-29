@@ -54,10 +54,6 @@ PROJECTS
     <td><h3 align="center"> Gaming Pill </h3> <a href="https://gamingpill.netlify.app"> <img src="https://media.giphy.com/media/cjSUcauS6nwYdAaiiE/giphy.gif" width=500> </a> </td>
   </tr>
 
-
-
-
-
 </table> 
   
 </div>
