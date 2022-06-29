@@ -46,12 +46,12 @@ PROJECTS
   
    <table>
   <tr>
-    <th> <h3> Capital Burgers </h3> <a href="https://capitalburgers.netlify.app"> <img src="https://media.giphy.com/media/U5PiAkVAez2p41tOg9/giphy.gif" width=500> </a> </img></th>
-    <th><h3> True Paradise Tours </h3> <a href="https://trueparadisetours.netlify.app"> <img src="https://media.giphy.com/media/Pvqhf8rKf4DsJzvgtz/giphy.gif" width=500> </a> </th>
+    <th> <h3> Capital Burgers </h3> <a href="https://capitalburgers.netlify.app" target="_blank"> <img src="https://media.giphy.com/media/U5PiAkVAez2p41tOg9/giphy.gif" width=500> </a> </img></th>
+    <th><h3> True Paradise Tours </h3> <a href="https://trueparadisetours.netlify.app" target="_blank"> <img src="https://media.giphy.com/media/Pvqhf8rKf4DsJzvgtz/giphy.gif" width=500> </a> </th>
   </tr>
   <tr>
-    <td><h3 align="center"> Shaken, not Stirred </h3> <a href="https://shakennotstirred.netlify.app"> <img src="https://media.giphy.com/media/zdGiPcsFKTrZeOJnvz/giphy.gif" width=500> </a> </td>
-    <td><h3 align="center"> Gaming Pill </h3> <a href="https://gamingpill.netlify.app"> <img src="https://media.giphy.com/media/cjSUcauS6nwYdAaiiE/giphy.gif" width=500> </a> </td>
+    <td><h3 align="center"> Shaken, not Stirred </h3> <a href="https://shakennotstirred.netlify.app" target="_blank"> <img src="https://media.giphy.com/media/zdGiPcsFKTrZeOJnvz/giphy.gif" width=500> </a> </td>
+    <td><h3 align="center"> Gaming Pill </h3> <a href="https://gamingpill.netlify.app" target="_blank"> <img src="https://media.giphy.com/media/cjSUcauS6nwYdAaiiE/giphy.gif" width=500> </a> </td>
   </tr>
 
 </table> 
