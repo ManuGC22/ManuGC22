@@ -9,7 +9,7 @@
  
   <img src="https://user-images.githubusercontent.com/101868896/174448716-5d5121c1-41fe-4219-af49-e02d54063032.png"/>
  <div id="badges">
-    <a href="#">
+    <a href="https://manugc.netlify.app/index.html">
   <img src="https://img.shields.io/badge/Portfolio-023e8a?style=for-the-badge" alt="Portfolio Badge"/>
     </a>
     <a href="https://www.linkedin.com/in/manugc/">
