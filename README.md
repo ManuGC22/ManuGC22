@@ -92,7 +92,7 @@ STREAK
 <hr>
 <div align="center">
   
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=ManuGC22&theme=dark&hide_border=true" title="Streak" width="650"/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ManuGC22&theme=highcontrast)](https://git.io/streak-stats)
   
 </div>
 <!--
