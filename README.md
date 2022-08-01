@@ -91,8 +91,6 @@ STREAK
 -->
 <hr>
 <div align="center">
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ManuGC22&theme=black-ice)](https://git.io/streak-stats)
 
 </div>
 <!--
