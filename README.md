@@ -27,7 +27,7 @@ ABOUT ME
 <div id="aboutme">
   <br>
   <p> 
-I am a software engineer, passionate about building knowledge to understand how things work. Love solving complex problems especially if the answer comes in the most unexpected way. Proficient in front-end and back-end development.
+I am a software engineer, passionate about building knowledge to understand how things work. Love solving complex problems especially if the answer comes in the most unexpected way. Proficient in front-end development with knowledge of back-end development.
     
 Making a positive impact in every place I reach is my purpose, code it's my toolbox.
   </p>
