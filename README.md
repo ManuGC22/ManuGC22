@@ -7,8 +7,7 @@
     Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
      </h1>  
  
-  <img src="https://user-images.githubusercontent.com/101868896/174448716-5d5121c1-41fe-4219-af49-e02d54063032.png"/>
- <div id="badges">
+  <img src="https://user-images.githubusercontent.com/101868896/186502871-80045a81-8483-40c7-893e-cabf506877e3.png"/>
     <a href="https://manugc.netlify.app/index.html">
   <img src="https://img.shields.io/badge/Portfolio-023e8a?style=for-the-badge" alt="Portfolio Badge"/>
     </a>
