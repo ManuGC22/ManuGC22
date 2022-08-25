@@ -6,8 +6,8 @@
    <h1> 
     Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
      </h1>  
- 
-  <img src="https://user-images.githubusercontent.com/101868896/186675123-5c633b65-3acd-4694-aa8a-55db054890ac.png"/>
+
+  <img src="https://user-images.githubusercontent.com/101868896/186676818-c0630b5f-914d-4783-8942-ac3d18c6d46d.png"/>
     <a href="https://manugc.netlify.app/index.html">
   <img src="https://img.shields.io/badge/Portfolio-023e8a?style=for-the-badge" alt="Portfolio Badge"/>
     </a>
